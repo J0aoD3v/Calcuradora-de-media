@@ -1,0 +1,77 @@
+body {
+  font-family: 'DS-Digital', sans-serif;
+  min-height: 400px;
+  background-image: url('https://addons-media.operacdn.com/media/CACHE/images/themes/95/24195/1.0-rev1/images/6290e491-1678-4799-87d2-c506270df3e1/f8ab4681d00a4acb10adaba0d1a4fb17.jpg');
+  background-color: #000000;
+  background-size: 100%;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+/* Copiado */
+.notas {
+  width: 100%;
+}
+
+.notas h2 {
+  color: #fff;
+  /*   text-align: left; */
+}
+
+.nota {
+  display: block;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  margin-bottom: 5px;
+  border-radius: 8px;
+}
+
+.nota:focus {
+  outline: none;
+}
+
+.btnMedia {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #3585ff;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 8px;
+  display: block;
+}
+
+.resultado {
+  color: #fff;
+  font-size: 24px;
+  text-align: left;
+}
+/* fim copia */
